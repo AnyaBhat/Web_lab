@@ -1,0 +1,25 @@
+*{
+    background-color: antiquewhite;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    font-size: 3.5rem;
+    color: brown ;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightcoral;
+    font-style: italic;
+    color:antiquewhite;
+}
+a{
+    font-size: 2.5rem;
+}
+
+hr{
+    background-color: blue;
+    height:5px;
+}

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timetable </title>
+</head>
+<body>
+    <h1 align="center">Timetable</h1>
+    <table border="3" align="center">
+        <tr height="20">
+            <th align="center" width="100" height="50">Day</th>
+            <th align="center" width="100" height="50">1</th>
+            <th align="center" width="100" height="50">2</th>
+            <th align="center" width="100" height="50">3</th>
+            <th align="center" width="100" height="50">LunchBreak</th>
+            <th align="center" width="100" height="50">4</th>
+            <th align="center" width="100" height="50">5</th>
+            <th align="center" width="100" height="50">6</th>
+            <th align="center" width="100" height="50">7</th>
+        </tr>
+        <tr>
+            <td align="center" width="100" height="50" >Monday</td>
+            <td align="center" width="100" height="50">SCM </td>
+            <td colspan="2" align="center" width="100" bgcolor="pink" height="50">SS LAB(A2)/CG LAB(A1)</td>
+            <td align="center" width="100" height="50"></td>
+            <td align="center" width="100" height="50">WEB</td>
+            <td align="center" width="100" height="50">SSCD</td>
+            <td colspan="2" align="center" width="100" bgcolor="yellow" height="50">MAD LAB(A1)/ AJJ JAVA(A2) & SELF LEARNING(A2)</td>
+        </tr>
+        <tr>
+            <td align="center" width="100" height="50">Tuesday</td>
+            <td align="center" width="100" height="50">WEB</td>
+            <td colspan="2" align="center" width="100" bgcolor="pink" height="50">SS LAB(A1)/CG LAB(A2)</td>
+            <td align="center" width="100" height="50"></td>
+            <td colspan="2" align="center" width="100" bgcolor="yellow" height="50">MAD LAB(A2)/ AJJ JAVA(A1) & SELF LEARNING(A1)</td>
+            <td align="center" width="100" height="50">CG </td>
+            <td align="center" width="100" bgcolor="yellow" height="50">AJAVA </td>
+        </tr>
+        <tr>
+            <td align="center" width="100" height="50">Wednesday</td>
+            <td align="center" width="100" bgcolor="yellow"height="50">AJAVA</td>
+            <td align="center" width="100" height="50">SSCD</td>
+            <td align="center" width="100" height="50">CG</td>
+            <td align="center" width="100" height="50"></td>
+            <td align="center" width="100" height="50">SCM</td>
+            <td colspan="3" align="center" width="100" height="50">Co-Curricular Activities</td>
+        </tr>
+        <tr>
+            <td align="center" width="100" height="50">Thursday</td>
+            <td align="center" width="100" height="50">SSCD</td>
+            <td align="center" width="100" bgcolor="yellow"height="50">AJAVA</td>
+            <td align="center" width="100" height="50">CG</td>
+            <td align="center" width="100" height="50"></td>
+            <td colspan="2" align="center" width="100" bgcolor="pink" height="50">SS LAB(A2)/CG LAB(A1)</td>
+            <td colspan="2" align="center" width="100" bgcolor="pink" height="50">WEB LAB</td>
+        </tr>
+        <tr>
+            <td align="center" width="100" height="50">Friday</td>
+            <td align="center" width="100" height="50">CG</td>
+            <td colspan="2" align="center" width="100" bgcolor="pink" height="50">SS LAB(A1)/CG LAB(A2)</td>
+            <td align="center" width="100" height="50"></td>
+            <td align="center" width="100" height="50">CG</td>
+            <td align="center" width="100" height="50">SSCD</td>
+            <td align="center" width="100" colspan="2"height="50">Training</td>
+        </tr>
+        <tr>
+            <td align="center" width="100" height="50">Saturday</td>
+            <td align="center" width="100" height="50">SSCD</td>
+            <td align="center" width="100" height="50">SCM</td>
+            <td align="center" width="100" height="50">CG</td>
+            <td align="center" width="100" height="50"></td>
+            <td align="center" width="100" height="50">SSCD</td>
+            <td align="center" width="100" height="50">CG</td>
+            <td align="center" width="100" height="50">SCM</td>
+            <td align="center" width="100" height="50">Mentoring</td>
+        </tr>
+    </table>
+</body>
+</html>
